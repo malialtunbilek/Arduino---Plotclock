@@ -53,7 +53,7 @@ Projeye başlarken gelin ilk önce mekanizmayı kuralım. Bunun için bize gerek
 Montaj
 
 
-![deneme](C:\Users\Mehmet\Desktop\plotclock parca acıklama.jpg)
+![deneme](C:\Users\Mehmet\Desktop\plotclock_parca_acıklama.jpg)
 
 
 
